@@ -9,11 +9,6 @@ root.minsize(500, 500)  # width,height
 root.maxsize(1080, 1080)  # width,height
 ###################################################################################################################
 
-# Title label
-sudoku_welcome_label = Label(text="Sudoku Game-Solve and Play")
-sudoku_welcome_label.pack()
-###################################################################################################################
-
 # Important Label options
 # text - adds text
 # bd-background
@@ -22,15 +17,15 @@ sudoku_welcome_label.pack()
 # font=("comicsans 10 bold")
 # padx,pady - padding for x and y
 # relief- border styling - SUNKEN,RAISED,GROOVE,RIDGE
-title_label = Label(text='''The tkinter package (“Tk interface”)''', bg="red", fg="yellow",
-                    padx=20, pady=10, font="comicsansms 10 bold", borderwidth=10, relief=RAISED)
+title_label = Label(text="Solve or Play the mindful game of SUDOKU", bg="red", fg="yellow",
+                    padx=10, pady=10, font="comicsansms 15 bold", borderwidth=5, relief=RAISED)
 ###################################################################################################################
 
 # Important Pack options
 # anchor = nw
 # side= top,bottom,left,right
 # Need to pack after adding any widget
-title_label.pack(side=TOP, anchor="sw", fill=X, padx=10, pady=10)
+title_label.pack(side=TOP, anchor="sw", fill=X, padx=5, pady=5)
 ###################################################################################################################
 
 # Frames-kinda like boxes
