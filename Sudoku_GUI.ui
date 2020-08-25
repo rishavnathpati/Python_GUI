@@ -371,7 +371,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_19">
+   <widget class="QTextEdit" name="cell94">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -390,7 +390,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_20">
+   <widget class="QTextEdit" name="cell98">
     <property name="geometry">
      <rect>
       <x>430</x>
@@ -409,7 +409,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_21">
+   <widget class="QTextEdit" name="cell97">
     <property name="geometry">
      <rect>
       <x>370</x>
@@ -428,7 +428,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_22">
+   <widget class="QTextEdit" name="cell91">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -447,7 +447,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_23">
+   <widget class="QTextEdit" name="cell95">
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -466,7 +466,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_24">
+   <widget class="QTextEdit" name="cell93">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -485,7 +485,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_25">
+   <widget class="QTextEdit" name="cell96">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -504,7 +504,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_26">
+   <widget class="QTextEdit" name="cell92">
     <property name="geometry">
      <rect>
       <x>70</x>
@@ -523,7 +523,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_27">
+   <widget class="QTextEdit" name="cell99">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -542,7 +542,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_28">
+   <widget class="QTextEdit" name="cell84">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -561,7 +561,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_29">
+   <widget class="QTextEdit" name="cell88">
     <property name="geometry">
      <rect>
       <x>430</x>
@@ -580,7 +580,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_30">
+   <widget class="QTextEdit" name="cell87">
     <property name="geometry">
      <rect>
       <x>370</x>
@@ -599,7 +599,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_31">
+   <widget class="QTextEdit" name="cell81">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -618,7 +618,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_32">
+   <widget class="QTextEdit" name="cell85">
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -637,7 +637,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_33">
+   <widget class="QTextEdit" name="cell83">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -656,7 +656,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_34">
+   <widget class="QTextEdit" name="cell86">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -675,7 +675,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_35">
+   <widget class="QTextEdit" name="cell82">
     <property name="geometry">
      <rect>
       <x>70</x>
@@ -694,7 +694,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_36">
+   <widget class="QTextEdit" name="cell89">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -713,7 +713,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_37">
+   <widget class="QTextEdit" name="cell74">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -732,7 +732,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_38">
+   <widget class="QTextEdit" name="cell78">
     <property name="geometry">
      <rect>
       <x>430</x>
@@ -751,7 +751,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_39">
+   <widget class="QTextEdit" name="cell77">
     <property name="geometry">
      <rect>
       <x>370</x>
@@ -770,7 +770,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_40">
+   <widget class="QTextEdit" name="cell71">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -789,7 +789,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_41">
+   <widget class="QTextEdit" name="cell75">
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -808,7 +808,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_42">
+   <widget class="QTextEdit" name="cell73">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -827,7 +827,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_43">
+   <widget class="QTextEdit" name="cell76">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -846,7 +846,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_44">
+   <widget class="QTextEdit" name="cell72">
     <property name="geometry">
      <rect>
       <x>70</x>
@@ -865,7 +865,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_45">
+   <widget class="QTextEdit" name="cell79">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -884,7 +884,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_46">
+   <widget class="QTextEdit" name="cell64">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -903,7 +903,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_47">
+   <widget class="QTextEdit" name="cell68">
     <property name="geometry">
      <rect>
       <x>430</x>
@@ -922,7 +922,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_48">
+   <widget class="QTextEdit" name="cell67">
     <property name="geometry">
      <rect>
       <x>370</x>
@@ -941,7 +941,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_49">
+   <widget class="QTextEdit" name="cell61">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -960,7 +960,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_50">
+   <widget class="QTextEdit" name="cell65">
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -979,7 +979,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_51">
+   <widget class="QTextEdit" name="cell63">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -998,7 +998,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_52">
+   <widget class="QTextEdit" name="cell66">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -1017,7 +1017,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_53">
+   <widget class="QTextEdit" name="cell62">
     <property name="geometry">
      <rect>
       <x>70</x>
@@ -1036,7 +1036,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_54">
+   <widget class="QTextEdit" name="cell69">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -1055,7 +1055,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_55">
+   <widget class="QTextEdit" name="cell54">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -1074,7 +1074,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_56">
+   <widget class="QTextEdit" name="cell58">
     <property name="geometry">
      <rect>
       <x>430</x>
@@ -1093,7 +1093,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_57">
+   <widget class="QTextEdit" name="cell57">
     <property name="geometry">
      <rect>
       <x>370</x>
@@ -1112,7 +1112,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_58">
+   <widget class="QTextEdit" name="cell51">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -1131,7 +1131,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_59">
+   <widget class="QTextEdit" name="cell55">
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -1150,7 +1150,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_60">
+   <widget class="QTextEdit" name="cell53">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -1169,7 +1169,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_61">
+   <widget class="QTextEdit" name="cell56">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -1188,7 +1188,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_62">
+   <widget class="QTextEdit" name="cell52">
     <property name="geometry">
      <rect>
       <x>70</x>
@@ -1207,7 +1207,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_63">
+   <widget class="QTextEdit" name="cell59">
     <property name="geometry">
      <rect>
       <x>490</x>
@@ -1226,7 +1226,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_64">
+   <widget class="QTextEdit" name="cell44">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -1245,7 +1245,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_65">
+   <widget class="QTextEdit" name="cell48">
     <property name="geometry">
      <rect>
       <x>430</x>
@@ -1264,7 +1264,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_66">
+   <widget class="QTextEdit" name="cell47">
     <property name="geometry">
      <rect>
       <x>370</x>
@@ -1302,7 +1302,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_68">
+   <widget class="QTextEdit" name="cell45">
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -1321,7 +1321,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_69">
+   <widget class="QTextEdit" name="cell43">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -1340,7 +1340,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_70">
+   <widget class="QTextEdit" name="cell46">
     <property name="geometry">
      <rect>
       <x>310</x>
@@ -1359,7 +1359,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_71">
+   <widget class="QTextEdit" name="cell42">
     <property name="geometry">
      <rect>
       <x>70</x>
@@ -1378,7 +1378,7 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
    </widget>
-   <widget class="QTextEdit" name="textEdit_72">
+   <widget class="QTextEdit" name="cell49">
     <property name="geometry">
      <rect>
       <x>490</x>
