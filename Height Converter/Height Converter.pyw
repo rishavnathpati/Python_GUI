@@ -1,3 +1,4 @@
+# The extension .pyw, when run, doesnt pull up the console(for Windows)
 from tkinter import Tk, Button, Label, DoubleVar, Entry
 
 window = Tk()
