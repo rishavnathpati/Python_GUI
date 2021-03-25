@@ -9,7 +9,7 @@ window.resizable(width=False, height=False)
 
 def convert():
     val_in_feet = float(ft_entry.get())
-    meter = val_in_feet*0.3048
+    meter = val_in_feet * 0.3048
     mt_value.set("%.4f" % meter)
 
 
@@ -24,7 +24,7 @@ ft_lbl.grid(column=0, row=0, padx=15, pady=15)
 ft_value = DoubleVar()
 ft_entry = Entry(window, bg="white", textvariable=ft_value, width=14)
 ft_entry.grid(column=1, row=0)
-ft_entry.delete(0, 'end')
+ft_entry.delete(0, "end")
 
 mt_lbl = Label(window, text="Meter", bg="purple", fg="white", width=14)
 mt_lbl.grid(column=0, row=1, padx=15, pady=15)
@@ -32,14 +32,22 @@ mt_lbl.grid(column=0, row=1, padx=15, pady=15)
 mt_value = DoubleVar()
 mt_entry = Entry(window, bg="white", textvariable=mt_value, width=14)
 mt_entry.grid(column=1, row=1, pady=30)
-mt_entry.delete(0, 'end')
+mt_entry.delete(0, "end")
 
-convert_btn = Button(window, text="Convert", bg="blue",
-                     fg="white", width=14, command=convert)
+convert_btn = Button(window,
+                     text="Convert",
+                     bg="blue",
+                     fg="white",
+                     width=14,
+                     command=convert)
 convert_btn.grid(column=0, row=3, padx=15)
 
-clear_btn = Button(window, text="Clear", bg="white",
-                   fg="blue", width=14, command=clear_fields)
+clear_btn = Button(window,
+                   text="Clear",
+                   bg="white",
+                   fg="blue",
+                   width=14,
+                   command=clear_fields)
 clear_btn.grid(column=1, row=3, padx=15)
 
 window.mainloop()
